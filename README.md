@@ -4,7 +4,7 @@
   <img src="Astroboy-removebg.png" alt="logo" width="120"  height="auto" />
   <br/>
 
-  <h3><b>Hello Microverse</b></h3>
+  <h3><b>Awesome Books: with ES6</b></h3>
 
 </div>
 
@@ -33,13 +33,11 @@
 
 # 📖 Awesome Books <a name="about-project"></a>
 
-> **Awesome Books** is a small project built with html css and javascript.
+> **Awesome Books** Re-build Awesome Books to use ES6.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> This boilerplate focuses only on `linters` and `.gitignore`. No JS or Server are included in this repo.
 
 <details>
   <summary>Client</summary>
@@ -53,7 +51,7 @@
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://www.netlify.com/">Netlify</a></li>
+    <li><a href="https://pages.github.com/">GitHub Pages</a></li>
   </ul>
 </details>
 
@@ -69,7 +67,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://astroboyreloaded.github.io/Awesome-Books/)
+- [Live Demo Link](https://astroboyreloaded.github.io/Awesome-Books-with-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +75,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> If you are a new developer and would like to have a basic project boilerplate to start practicing your code or creating your first app-features, cloning this project will give you what you need!
 > To get a local copy up and running, follow these steps:
 
 ### Prerequisites
@@ -149,11 +146,6 @@ npx eslint .
 - Twitter: [@astroboyReload](https://twitter.com/astroboyReload)
 - LinkedIn: [Alex Muñoz](https://www.linkedin.com/in/astroboyreloaded/)
 
-> 👤 **Bahir Hakimy**
-
-- [GitHub](https://github.com/astroboyReloaded)
-- [Twitter](https://twitter.com/astroboyReload)
-- [LinkedIn](https://www.linkedin.com/in/bahir-hakimy-533660237)
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
