@@ -64,9 +64,8 @@ a {
 }
 
 time {
-  position: absolute;
-  left: 81.9vw;
-  top: 5.1vw;
+  position: relative;
+  right: calc(-100vw + 21ch);
   padding: 0.2rem 0.1rem;
   font-size: 1.2rem;
   color: var(--beige);
