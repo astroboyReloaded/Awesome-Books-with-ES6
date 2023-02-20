@@ -9,5 +9,47 @@
     <title>Awesome Books: with ES6</title>
 </head>
 <body>
+    <header>
+        <nav>
+          <h1 class="logo"><a href="">Awesome Books</a></h1>
+          <ul class="nav-list">
+            <li class="nav-item"><a href="#" id="listLink" class="link">List</a></li>
+            <li class="nav-item"><a href="#" id="addLink">Add new</a></li>
+            <li class="nav-item"><a href="#" id="contactLink">Contact</a></li>
+          </ul>
+        </nav>
+        <time></time>
+      </header>
+      <main>
+        <section id="collection" class="active">
+          <h1 class="title">Awesome Books</h1>
+          <ul id="books"></ul>
+        </section>
+        <section id="addBook">
+          <form>
+            <h1 class="title">Add a new book</h1>
+            <input id="newTitle" type="text" placeholder="Title" />
+            <input id="newAuthor" type="text" placeholder="Author" />
+            <button id="add" type="button">Add</button>
+          </form>
+        </section>
+        <section id="contact">
+          <h1 class="title">Contact information</h1>
+          <p>
+            Do you have any questions, or jus want to say "Hello"? You can reach
+            out to us!
+          </p>
+          <address>
+            <ul class="contact-list">
+              <li class="email">Our e-mail: mail@mail.com</li>
+              <li class="phone">Our phone number: 005554443210</li>
+              <li class="address">
+                Our address: Streetname 22, 87654 City, County
+              </li>
+            </ul>
+          </address>
+        </section>
+      </main>
+      <footer>Copyright</footer>
 </body>
 </html>
