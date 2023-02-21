@@ -103,8 +103,9 @@ or
 run the
 
 ```sh
-npm install` command in your console.
+npm install
 ```
+command in your console.
 
 ### Usage
 
