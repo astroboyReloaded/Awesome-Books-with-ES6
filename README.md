@@ -151,7 +151,8 @@ npx eslint .
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ESLint](https://eslint.org/).
+- Saved message.
+- Option to save several books or go to Collection page after saving one book.
 
 <!-- CONTRIBUTING -->
 
